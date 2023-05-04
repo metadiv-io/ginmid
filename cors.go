@@ -1,4 +1,4 @@
-package midware
+package ginmid
 
 import (
 	"github.com/gin-contrib/cors"

@@ -1,4 +1,4 @@
-package midware
+package ginmid
 
 import (
 	"time"
